@@ -6,7 +6,7 @@ ul,li,ol{margin:0; padding: 0;}
 */
 .center{text-align: center;}
 
-.container h4{ font-size:20px; font-weight: bolder; }
+.container h4{ font-size:20px; font-weight: bolder; background: #fff;}
 .cont{
 	border: 1px solid #d6d6d6;
 	padding: 45px 15px;
