@@ -1,0 +1,26 @@
+body{font-size:18px; background: #eee;}
+ul,li,ol{margin:0; padding: 0;}
+
+/*
+ @global css
+*/
+.center{text-align: center;}
+
+.container h4{ font-size:20px; font-weight: bolder; }
+.cont{
+	border: 1px solid #d6d6d6;
+	padding: 45px 15px;
+	text-indent: 35px;
+}
+.comment-warp{
+	width: 100%;
+}
+#submit_btn{
+	margin-top: 25px;
+}
+
+.row-list p.comment-cont{ border: 1px solid #d6d6d6; padding: 5px 15px; margin-top:5px;}
+.row-list p.comment-info{ color: #999!important; font-size: 12px; font-weight: normal; overflow: hidden; }
+.leave_num{
+	color: red;
+}
